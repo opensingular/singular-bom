@@ -1053,7 +1053,7 @@
         <google.guava.version>26.0-jre</google.guava.version>
         <querydsl.version>4.2.1</querydsl.version>
         <logging.log4j.version>2.3</logging.log4j.version>
-        <eclipse.jetty.version>9.4.6.v20170531</eclipse.jetty.version>
+        <eclipse.jetty.version>9.4.41.v20210516</eclipse.jetty.version>
         <hamcrest.version>1.3</hamcrest.version>
         <project.scm.url>https://github.com/opensingular/singular-bom.git</project.scm.url>
         <project.scm.connection>scm:git:https://github.com/opensingular/singular-bom.git</project.scm.connection>
